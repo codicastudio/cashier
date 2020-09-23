@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/cashier",
+    "name": "codica-studio/cashier",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/cashier",
+    "homepage": "https://github.com/codica-studio/cashier",
     "license": "MIT",
     "authors": [
         {
