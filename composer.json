@@ -49,9 +49,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "12.x-dev"
-        },
         "laravel": {
             "providers": [
                 "Laravel\\Cashier\\CashierServiceProvider"
